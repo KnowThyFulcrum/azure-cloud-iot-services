@@ -7,7 +7,7 @@ Hands-on implementation of Microsoft Azure cloud, IoT, security, and ML services
 ## Tools
 Microsoft Azure (Portal, Cloud Shell / Azure CLI, PowerShell) · Azure Virtual Machines · Azure Container Instances · Virtual Networks · Blob Storage · Azure SQL Database · Azure IoT Hub · Azure IoT Edge · Azure Functions (C#, .NET 6, Functions v4) · Azure RBAC, Resource Locks, NSGs · Azure Machine Learning (AutoML) · Power BI
 
-## What was implemented (from the project report)
+## What was implemented
 - **Chapter 3 – Core services:** resource groups, a VM configured as a web server, Azure Container Instances, a virtual network with two VMs and connectivity test, Blob Storage, Azure SQL Database.
 - **Chapter 4 – IoT & serverless:** Azure IoT Hub with a registered device (`myRaspberryPi`), Azure Functions (HTTP trigger), VM deployment from templates/PowerShell, VM creation with the Azure CLI.
 - **Chapter 5 – Security & governance:** network security groups to secure traffic, RBAC access management, resource locks (tested deletion protection), resource tagging, Trust Center.
