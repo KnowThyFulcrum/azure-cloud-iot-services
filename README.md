@@ -35,8 +35,5 @@ AutoML used the UCI **Bank Marketing** dataset ([UCI ML Repository](https://arch
    ```
 3. `func start`, then call `http://localhost:7071/api/HttpTrigger01?name=World`.
 
-## Note on redactions
-Subscription IDs, IP addresses, hostnames, emails, student ID, and terminal/CLI output were blacked out of the report screenshots before publishing.
-
 ## Author
 Jay Cespedes
